@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background: hsla(0, 0%, 71%, 0.779);
+    text-align: justify;
+    max-width: 1000px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 1% auto;
+    font-family: "Lato", sans-serif;
+}
+
+.dark {
+    background: hsla(241, 36%, 64%, 0.641);
+}

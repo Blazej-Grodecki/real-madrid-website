@@ -1,0 +1,37 @@
+.section__article {
+    background-color: rgba(149, 150, 150, 0.408);
+    border: 2px solid rgb(51, 0, 255);
+    border-radius: 5px;
+    padding: 20px;
+    padding-left: 20px;
+    margin: 1%;
+    box-shadow: 6px 4px 15px 3px rgb(95, 95, 95);
+    text-shadow: 1px 1px 4px #888;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.section__article {
+    background-color: rgba(149, 150, 150, 0.408);
+    border: 2px solid rgb(51, 0, 255);
+    border-radius: 5px;
+    padding: 20px;
+    padding-left: 20px;
+    margin: 1%;
+    box-shadow: 6px 4px 15px 3px rgb(95, 95, 95);
+    text-shadow: 1px 1px 4px #888;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.section__trophies {
+    text-align: center;
+}
+
+.section__fourthArticle {
+    text-align: center;
+}
+
+.section__anthem {
+    color: hsla(116, 87%, 9%, 0.67);
+}

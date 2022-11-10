@@ -1,0 +1,24 @@
+.unorderedList {
+    list-style-type: square;
+    list-style-position: inside;
+    padding-left: 20px;
+    margin: 10px 0;
+}
+
+.unorderedList__item {
+    margin: 10px 0;
+}
+
+.unorderedList--circle.unorderedList--circle {
+    list-style-type: circle;
+}
+
+.orderedList {
+    list-style-type: decimal;
+    padding-left: 20px;
+    margin: 10px 0;
+}
+
+.orderedList__listItem {
+    margin: 10px 0;
+}

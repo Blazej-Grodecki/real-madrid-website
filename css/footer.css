@@ -1,0 +1,35 @@
+.footer {
+    padding-bottom: 3px;
+    padding-top: 3px;
+    background-color: rgba(95, 146, 129, 0.888);
+    border-radius: 4px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.footer__link {
+    color: rgb(228, 229, 226);
+    text-decoration: none;
+}
+
+.footer__link:visited {
+    color: rgb(120, 55, 55);
+}
+
+.footer__link:focus {
+    outline: 2px solid currentColor;
+}
+
+.footer__link:hover {
+    color: rgb(73, 72, 72);
+    outline: none;
+}
+
+.footer__link:active {
+    color: rgb(134, 109, 109);
+}
+
+.footer__paragraph {
+    padding: none;
+    margin: 1px;
+}

@@ -1,0 +1,42 @@
+.navigation {
+    background-color: rgba(127, 161, 181, 0.866);
+    padding: 1px;
+    border-radius: 4px;
+    box-shadow: 6px 4px 15px 3px rgb(95, 95, 95);
+    margin-top: 0px;
+    text-align: center;
+}
+
+.navigation__listItem {
+    margin: 10px 0;
+    list-style-type: none;
+    display: inline;
+    padding: 2px;
+    margin: 0px;
+}
+
+.navigation__listItem:hover {
+    box-shadow: 10px 10px 9px -5px #000000;
+}
+
+.navigation__link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.navigation__link:visited {
+    color: rgb(3, 3, 3);
+}
+
+.navigation__link:focus {
+    outline: 2px solid currentColor;
+}
+
+.navigation__link:hover {
+    color: rgb(73, 72, 72);
+    outline: none;
+}
+
+.navigation__link:active {
+    color: rgb(162, 27, 27);
+}

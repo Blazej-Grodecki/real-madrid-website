@@ -1,0 +1,28 @@
+
+.aside__link {
+    color: rgb(152, 63, 63);
+    text-decoration: none;
+}
+
+.aside__link:visited {
+    color: rgb(228, 41, 41);
+}
+
+.aside__link:focus {
+    outline: 2px solid currentColor;
+}
+
+.aside__link:hover {
+    color: rgb(73, 72, 72);
+    outline: none;
+}
+
+.aside__link:active {
+    color: rgb(162, 27, 27);
+}
+
+.aside__item {
+    padding-left: 20px;
+    margin: 10px 0;
+}
+
