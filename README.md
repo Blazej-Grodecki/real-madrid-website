@@ -1,4 +1,4 @@
-# Real Madrit Website
+# Real Madrid Website
 Made by Błażej Gródecki. 
 
 My website about Real Madrid | Demo:
